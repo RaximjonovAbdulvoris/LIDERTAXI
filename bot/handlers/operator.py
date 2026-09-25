@@ -26,12 +26,9 @@ from bot.config import ARCHIVE_GROUP
 logger = logging.getLogger(__name__)
 
 READY_TEXT = (
-    "✅ **LIDER TAXiga arizangiz muvaffaqiyatli qabul qilindi!**
-
-📞 Tez orada operatorlarimiz siz bilan bog‘lanishadi.
-
-💬 Savollar uchun: **@wblider**"
-
+    "✅ **LIDER TAXiga arizangiz muvaffaqiyatli qabul qilindi!**\n\n"
+    "📞 Tez orada operatorlarimiz siz bilan bog'lanishadi.\n\n"
+    "💬 Savollar uchun: **@wblider**"
 )
 
 
