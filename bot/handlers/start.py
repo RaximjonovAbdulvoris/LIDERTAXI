@@ -11,7 +11,7 @@ MAIN_KEYBOARD = ReplyKeyboardMarkup(
 )
 
 WELCOME_TEXT = (
-    "🚖 *WB SAFAR TAXI* botiga xush kelibsiz!\n\n"
+    "🚖 *WB LIDER TAXI* botiga xush kelibsiz!\n\n"
     "Quyidagi menyulardan birini tanlang:\n\n"
     "📝 *Ulanish uchun Ariza* — Haydovchilik uchun ariza\n"
     "🎨 *Brend Ariza* — Mashinangizni brendlash uchun ariza\n"
@@ -19,9 +19,9 @@ WELCOME_TEXT = (
 )
 
 PAYOUT_TEXT = (
-    "💰 *PUL YECHISH BOTI:* @safar\_taxi\_bot\n\n"
-    "📞 *PARK NOMERI:* +998908233334\n\n"
-    "✉️ *TELEGRAM ORQALI MUROJAT:* @WBsafarTAXI"
+    "💰 *PUL YECHISH BOTI:* @liderpul\_bot\n\n"
+    "📞 *PARK NOMERI:* +998901819191\n\n"
+    "✉️ *TELEGRAM ORQALI MUROJAT:* @WBlider"
 )
 
 
